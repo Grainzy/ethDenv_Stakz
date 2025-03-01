@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="/public/images/stakz.png" alt="Stakz" width="180"/>
-  
+<div align="center"> 
   <h1>Stakz</h1>
   <p>DeFi-Powered Round-Up Investment Platform on Unichain</p>
 
